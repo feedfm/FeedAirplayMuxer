@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
   s.description      = 'Airplay muxer for feed iOS SDK. Refer to documentaion for more info'
 
   s.homepage         = 'https://github.com/feedfm/FeedAirplayMuxer'
-  s.license          = { :type => 'MIT', :file => 'LICENSE' }
+  s.license          = { :type => 'MIT', :file => 'LICENSE.md' }
   s.author           = { "Arveen Kumar" => "arveen@feed.fm", "Feed Media" => "support@feed.fm" }
   s.source           = { :git => 'https://github.com/Arveen/FeedAirplayMuxer.git', :tag => s.version.to_s }
   s.ios.deployment_target = '12.0'
