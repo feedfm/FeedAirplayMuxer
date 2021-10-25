@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
   s.name             = 'AirplayMuxer'
   s.version          = '0.1.0'
   s.summary          = 'Airplay muxer for feed iOS SDK.'
-  s.description      = 'Airplay muxer for feed iOS SDK.'
+  s.description      = 'Airplay muxer for feed iOS SDK. Refer to documentaion for more info'
 
   s.homepage         = 'https://github.com/feedfm/FeedAirplayMuxer'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
