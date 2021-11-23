@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/AirplayManager.h</key>
 		<data>
-		BuLwGt+M178mLeMRH6PtkuZWixk=
+		VMhWStlvqpB/VIklUgcoTDaJXQ4=
 		</data>
 		<key>Headers/AirplayMuxer.h</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		MPFDnDrB+rsjTlXILs1tbYM4VNs=
+		OiQy9bxnFQfAJWXZKCpOFTcdCf4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -31,7 +31,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dd4cdJWhrDp66yS4i4DK0DpQTeGcHE1jeKu91RxAqJ8=
+			8mnFojntmC1o8ajoKr+gz3pjyzfBUl7RRJYCBgTB9qw=
 			</data>
 		</dict>
 		<key>Headers/AirplayMuxer.h</key>

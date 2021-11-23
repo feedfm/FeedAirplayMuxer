@@ -5,6 +5,8 @@
 #import <Foundation/Foundation.h>
 #import <FeedMedia/FeedMedia.h>
 
+#define FEED_MEDIA_VERSION @"0.1.1"
+
 
 
 @protocol AirplayDelegate<NSObject>
@@ -27,7 +29,7 @@
 - (void)registerAirplayDelegate:(id<AirplayDelegate>)delegate withOriginalUrl:(NSURL *)url musicVolume:(float)vol withStation:(FMStation*) station withCrossfade:(NSTimeInterval) fadeTime;
 
 
-
+- (void) stop;
 
 
 @end
