@@ -5,7 +5,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AirplayMuxer'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Airplay muxer for feed iOS SDK.'
   s.description      = 'Airplay muxer for feed iOS SDK. Refer to documentaion for more info'
 
